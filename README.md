@@ -16,7 +16,7 @@ with no central authority: managing transactions and issuing money are carried
 out collectively by the network. EinsteinCoin
 
 core is the name of open source
-software which enables the use of this currency.
+software which enables the use of this currency. This cryptocurrency is based on litecoin Core
 
 For more information, as well as an immediately useable, binary version of
 the Litecoin Core software, see [https://litecoin.org](https://litecoin.org).
